@@ -1,0 +1,9 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[888],{1118:function(e,n,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/_app",function(){return t(771)}])},771:function(e,n,t){"use strict";t.r(n);var r=t(1844),o=t(9008),s=t.n(o);t(1167);let i=e=>{let{Component:n,pageProps:t}=e;return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsxs)(s(),{children:[(0,r.jsx)("title",{children:"Mark Tolentino | Front-end Developer"}),(0,r.jsx)("meta",{name:"viewport",content:"width=device-width, initial-scale=1"}),(0,r.jsx)("link",{rel:"shortcut icon",type:"x-icon",href:"/icon.png"}),(0,r.jsx)("link",{rel:"preconnect",href:"https://stijndv.com"}),(0,r.jsx)("link",{rel:"stylesheet",href:"https://stijndv.com/fonts/Eudoxus-Sans.css"})]}),(0,r.jsx)(n,{...t})]})};n.default=i},1167:function(){},9803:function(e,n,t){"use strict";/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Meta Platforms, Inc. and affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */var r=t(5784),o=Symbol.for("react.element"),s=Symbol.for("react.fragment"),i=Object.prototype.hasOwnProperty,c=r.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,u={key:!0,ref:!0,__self:!0,__source:!0};function f(e,n,t){var r,s={},f=null,l=null;for(r in void 0!==t&&(f=""+t),void 0!==n.key&&(f=""+n.key),void 0!==n.ref&&(l=n.ref),n)i.call(n,r)&&!u.hasOwnProperty(r)&&(s[r]=n[r]);if(e&&e.defaultProps)for(r in n=e.defaultProps)void 0===s[r]&&(s[r]=n[r]);return{$$typeof:o,type:e,key:f,ref:l,props:s,_owner:c.current}}n.Fragment=s,n.jsx=f,n.jsxs=f},1844:function(e,n,t){"use strict";e.exports=t(9803)},9008:function(e,n,t){e.exports=t(8316)}},function(e){var n=function(n){return e(e.s=n)};e.O(0,[179],function(){return n(1118),n(3598)}),_N_E=e.O()}]);
