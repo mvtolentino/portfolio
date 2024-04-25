@@ -20,9 +20,9 @@ const Work = () => {
                                 </figure>
                                 <div className="divider divider-horizontal divider-neutral"></div>
                                 <div className="flex flex-col gap-y-2 items-start">
-                                    <h1 className="text-2xl font-semibold">Full-stack Developer</h1>
-                                    <h6 className="text-[15px] font-extralight">at Comfort Group of Companies</h6>
-                                    <p className="text-[14px] font-extralight">October 2023 - Present ~ Full Time</p>
+                                    <h1 className="text-[20px] font-semibold">Full-stack Developer</h1>
+                                    <h6 className="text-[12px] font-extralight">at Comfort Group of Companies</h6>
+                                    <p className="text-[10px] font-extralight">October 2023 - Present ~ Full Time</p>
                                 </div>
                             </div>
                         </div>
@@ -37,9 +37,9 @@ const Work = () => {
                                 </figure>
                                 <div className="divider divider-horizontal divider-neutral"></div>
                                 <div className="flex flex-col gap-y-2 items-start">
-                                    <h1 className="text-2xl font-semibold">Web Developer - IT Assist</h1>
-                                    <h6 className="text-[15px] font-extralight">at Clark Outsourcing</h6>
-                                    <p className="text-[14px] font-extralight">Jan 2023 - April 2023 ~ Internship</p>
+                                    <h1 className="text-[20px] font-semibold">Web Developer - IT Assist</h1>
+                                    <h6 className="text-[12px] font-extralight">at Clark Outsourcing</h6>
+                                    <p className="text-[10px] font-extralight">Jan 2023 - April 2023 ~ Internship</p>
                                 </div>
                             </div>
                         </div>
