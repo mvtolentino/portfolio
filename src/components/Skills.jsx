@@ -23,7 +23,7 @@ const Skills = () => {
                     <button className="border-2 py-[10px] px-[20px] rounded-[10px]">Bootstrap</button>
                     <button className="border-2 py-[10px] px-[20px] rounded-[10px]">Ajax</button>
                     <button className="border-2 py-[10px] px-[20px] rounded-[10px]">JQuery</button>
-                    <button className="border-2 py-[10px] px-[20px] rounded-[10px]">Mobile Responsive</button>
+                    <button className="border-2 py-[10px] px-[20px] rounded-[10px]">Responsive</button>
                     <button className="border-2 py-[10px] px-[20px] rounded-[10px]">Git</button>
                 </div>
             </div>
