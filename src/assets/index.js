@@ -14,6 +14,8 @@ import daisy from "./daisy.png";
 import filament from "./filament.png";
 import jetstream from "./jetstream.png";
 import right from "./right.png";
+import groundlink from "./Groundlink.png";
+import webchamp from "./Webchamp.png";
 
 import skill from "./skill.png";
 
@@ -42,4 +44,6 @@ export {
     co,
     chs1,
     footer,
+    groundlink,
+    webchamp
 };
