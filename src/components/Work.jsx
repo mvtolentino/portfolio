@@ -58,7 +58,7 @@ const Work = () => {
                                 <div className="flex flex-col gap-y-2 items-start">
                                     <h1 className="text-[20px] font-semibold">Fullstack Developer</h1>
                                     <h6 className="text-[12px] font-extralight">at Comfort Group of Companies</h6>
-                                    <p className="text-[10px] font-extralight">October 2023 - June 2024 ~ Full Time</p>
+                                    <p className="text-[10px] font-extralight">June 2023 - June 2024 ~ Full Time</p>
                                 </div>
                             </div>
                         </div>
