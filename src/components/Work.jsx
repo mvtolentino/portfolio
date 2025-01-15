@@ -73,7 +73,7 @@ const Work = () => {
                                 </figure>
                                 <div className="divider divider-horizontal divider-neutral"></div>
                                 <div className="flex flex-col gap-y-2 items-start">
-                                    <h1 className="text-[15px] font-semibold">Information System Intern</h1>
+                                    <h1 className="text-[18px] font-semibold">Information System Intern</h1>
                                     <h6 className="text-[12px] font-extralight">at Clark Outsourcing</h6>
                                     <p className="text-[10px] font-extralight">Jan 2023 - April 2023 ~ Internship</p>
                                 </div>
